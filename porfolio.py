@@ -33,16 +33,17 @@ st.sidebar.markdown("*Géomaticien - L2 en cours*")
 
 # Main content
 st.title("📋 **Curriculum Vitae**")
-st.markdown("**Khabane Guèye** - Géomaticien")
+st.markdown("**Birane Diouf** - Géomaticien")
 
 ## Compétences
 st.header("🎯 **Compétences**")
 competences = [
     "Maîtrise des techniques de levés topographiques",
     "Conception et mise en page de cartes thématiques de qualité professionnelle",
-    "Utilisation des instruments : Niveau, Station totale(manuelle,rebotisée), Drone, GPS",
+    "Utilisation des instruments : Niveau, Station totale, Drone, GPS différenciel",
     "Géo-référencement",
-    "Implanter une base de données",
+    "Mettre en place une base de données",
+    "Traitement d'image avec Agisoft et PIX4DMapper"
     
 ]
 
@@ -52,37 +53,29 @@ for comp in competences:
 ## Expériences Professionnelles
 st.header("💼 **Expériences Professionnelles**")
 
-st.subheader("**Juin - Septembre 2024**")
-st.markdown("**DIAM'O – Représentant commercial**")
-st.markdown("- Interroger les clients")
-st.markdown("- Faire connaître et vendre une eau spécifique")
+st.subheader("**Juin - Septembre 2025**")
+st.markdown("**Levée topographique**")
+st.markdown("- Traitement de données spatiale")
+
 
 ## Formation
 st.header("🎓 **Formation**")
 
 st.markdown("""
-**2025 - 2026**  
-**Centre d'entrepreneuriat et de développement technique (CEDT) le G15**  
-*Licence 2 en Géomatique (Formation en cours)*
-
 **2024 - 2025**  
 **Centre d'entrepreneuriat et de développement technique (CEDT) le G15**  
-*Licence 1 en Géomatique*
+*Licence 1 en Géomatique *
 
-**2022 - 2023**  
-**Yatinga**  
-*Baccalauréat*
+**2025 - 2026**  
+**Centre d'entrepreneuriat et de développement technique (CEDT) le G15**  
+*Licence 2 en Géomatique(Formation en cours)*
+
+**2023 - 2024**  
+ *Baccalauréat*
 """)
 
-## Langues (déplacé en bas)
-st.header("🌐 **Langues**")
-col1, col2 = st.columns(2)
-with col1:
-    st.markdown("**Français**")
-    st.progress(1.0)
-with col2:
-    st.markdown("**Anglais**") 
-    st.progress(1.0)
+
+
 
 
 
