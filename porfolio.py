@@ -5,7 +5,7 @@ import streamlit.components.v1 as components
 st.set_page_config(page_title="Mon CV", page_icon="📍", layout="wide")
 
 # Sidebar pour Contacts et Logiciels
-st.sidebar.header("📞 **Contacts**")
+
 st.sidebar.markdown("""
 **Adresse**  
 Mbour Sérère Kao
@@ -24,6 +24,8 @@ logiciels = [
     "Excel",
     "PowerPoint",
     "Erdas"
+    "Agisoft"
+    "VSCODE"
 ]
 for logiciel in logiciels:
     st.sidebar.markdown(f"• **{logiciel}**")
@@ -55,7 +57,7 @@ st.header("💼 **Expériences Professionnelles**")
 
 st.subheader("**Juin - Septembre 2025**")
 st.markdown("**Levée topographique**")
-st.markdown("- Traitement de données spatiale")
+st.markdown("- Collecte de données")
 
 
 ## Formation
@@ -70,9 +72,10 @@ st.markdown("""
 **Centre d'entrepreneuriat et de développement technique (CEDT) le G15**  
 *Licence 2 en Géomatique(Formation en cours)*
 
-**2023 - 2024**  
+** 2024**  
  *Baccalauréat*
 """)
+
 
 
 
