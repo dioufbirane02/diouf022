@@ -13,7 +13,7 @@ Mbour Sérère Kao
 
 
 **Email**  
-[dioufbirane@gmail.com]
+[dioufbirane@gmail.com]""")
 
 st.sidebar.header("💻 **Logiciels maîtrisés**")
 logiciels = [
@@ -83,6 +83,7 @@ with col1:
 with col2:
     st.markdown("**Anglais**") 
     st.progress(1.0)
+
 
 
 
