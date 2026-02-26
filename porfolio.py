@@ -4,9 +4,10 @@ with st.sidebar:
   st.write("Email:dioufbirane022@gmail.com")
   st.write("Adresse: Mbour Sérère Kao")
   
-  st.write("BIRANE mange du mangue Birane boit du riz Alors Birane a jeune Birane est derriere moi
+  st.title("BIRANE mange du mangue Birane boit du riz Alors Birane a jeune Birane est derriere moi
   quelle est la finalite; c est de vendre: entre le client et le produit qui est le plus important: 
   Birane a dsit que cùest le produit le plus important parceque il a melange plusieurs truc")
+
 
 
 
