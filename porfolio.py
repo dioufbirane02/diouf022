@@ -49,6 +49,7 @@ competences = [
     "Collecte de données avec Locus map, Mobile Topographe et Qfield",
     "Traitement d'image aériennes",
     "Webmapping",
+    "Numérisation",
     
 ]
 
@@ -78,6 +79,7 @@ st.markdown("""
 ** 2024**  
  *Baccalauréat*
 """)
+
 
 
 
