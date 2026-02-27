@@ -13,7 +13,7 @@ Mbour Sérère Kao
 
 
 **Email**  
-[dioufbirane@gmail.com]""")
+[dioufbirane022@gmail.com]""")
 
 st.sidebar.header("💻 **Logiciels maîtrisés**")
 logiciels = [
@@ -46,6 +46,7 @@ competences = [
     "Géo-référencement",
     "Mettre en place une base de données",
     "Traitement d'image avec Agisoft et PIX4DMapper"
+    "Collecte de données avec Locus map, Mobile Topographe et Qfield"
     
 ]
 
@@ -75,6 +76,7 @@ st.markdown("""
 ** 2024**  
  *Baccalauréat*
 """)
+
 
 
 
