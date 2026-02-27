@@ -23,8 +23,8 @@ logiciels = [
     "Pix4D",
     "Excel",
     "PowerPoint",
-    "Erdas"
-    "Agisoft"
+    "Erdas",
+    "Agisoft",
     "VSCODE"
 ]
 for logiciel in logiciels:
@@ -76,6 +76,7 @@ st.markdown("""
 ** 2024**  
  *Baccalauréat*
 """)
+
 
 
 
