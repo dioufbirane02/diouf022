@@ -45,7 +45,7 @@ competences = [
     "Utilisation des instruments : Niveau, Station totale, Drone, GPS différenciel",
     "Géo-référencement",
     "Mettre en place une base de données",
-    "Traitement d'image avec Agisoft et PIX4DMapper"
+    "Traitement d'image avec Agisoft et PIX4DMapper",
     "Collecte de données avec Locus map, Mobile Topographe et Qfield"
     
 ]
@@ -76,6 +76,7 @@ st.markdown("""
 ** 2024**  
  *Baccalauréat*
 """)
+
 
 
 
