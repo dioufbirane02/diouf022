@@ -15,7 +15,7 @@ Mbour Sérère Kao
 **Email**  
 dioufbirane022@gmail.com""")
 
-st.sidebar.header("💻 **Logiciels maîtrisés**")
+st.sidebar.header(" **Logiciels maîtrisés**")
 logiciels = [
     "QGIS / ArcGIS",
     "AutoCAD", 
@@ -34,11 +34,11 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("*Géomaticien - L2 en cours*")
 
 # Main content
-st.title("📋 **BIRANE DIOUF**")
+st.title(" **BIRANE DIOUF**")
 st.markdown(" Géomaticien")
 
 ## Compétences
-st.header("🎯 **Compétences**")
+st.header(" **Compétences**")
 competences = [
     "Maîtrise des techniques de levés topographiques",
     "Conception et mise en page de cartes thématiques de qualité professionnelle",
@@ -57,7 +57,7 @@ for comp in competences:
     st.markdown(f"• **{comp}**")
 
 ## Expériences Professionnelles
-st.header("💼 **Expériences Professionnelles**")
+st.header(" **Expériences Professionnelles**")
 
 st.subheader("**Juin - Septembre 2025**")
 st.markdown("**Levée topographique**")
@@ -65,7 +65,7 @@ st.markdown("- Collecte de données")
 
 
 ## Formation
-st.header("🎓 **Formation**")
+st.header("**Formation**")
 
 st.markdown("""
 **2024 - 2025**  
@@ -79,6 +79,7 @@ st.markdown("""
 ** 2024**  
  *Baccalauréat*
 """)
+
 
 
 
