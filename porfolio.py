@@ -48,6 +48,7 @@ competences = [
     "Traitement d'image avec Agisoft et PIX4DMapper",
     "Collecte de données avec Locus map, Mobile Topographe et Qfield",
     "Traitement d'image aériennes",
+    "Webmapping",
     
 ]
 
@@ -77,6 +78,7 @@ st.markdown("""
 ** 2024**  
  *Baccalauréat*
 """)
+
 
 
 
